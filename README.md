@@ -12,6 +12,10 @@ Some of my little projects and results of my study about code
 
 5.TicTacToe - my first game with graphic interface written in Java (AWT Swing).
 
+6.AlgorytmJSOUP - its simple program that uses JSoup library to download lyrics from  the site (works only with this site ->  http://www.tekstowo.pl/). We enter  the URL of song inside code, next we type (via console) the word we are looking for and programme search for us how many times this word appears in lyrics.
+
+7.Battlefield - and here we go again, next game (or rather a simulation) but this time written in C#. This is simulation of battle beetween four fractions (fraction of warriors, wizards, thiefs and warlocks), the fights ends when only one fractions stay alive.
+
 
 
 
