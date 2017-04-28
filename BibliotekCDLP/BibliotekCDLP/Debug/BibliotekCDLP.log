@@ -1,0 +1,20 @@
+﻿Build started 2016-01-18 14:51:22.
+     1>Project "C:\Users\dandes1608\Documents\Visual Studio 2013\Projects\BibliotekCDLP\BibliotekCDLP\BibliotekCDLP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\BibliotekCDLP.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BibliotekCDLP.cpp Biblioteka.cpp
+         Biblioteka.cpp
+     1>c:\users\dandes1608\documents\visual studio 2013\projects\bibliotekcdlp\bibliotekcdlp\biblioteka.cpp(49): warning C4018: '<' : signed/unsigned mismatch
+         BibliotekCDLP.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dandes1608\Documents\Visual Studio 2013\Projects\BibliotekCDLP\Debug\BibliotekCDLP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dandes1608\Documents\Visual Studio 2013\Projects\BibliotekCDLP\Debug\BibliotekCDLP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dandes1608\Documents\Visual Studio 2013\Projects\BibliotekCDLP\Debug\BibliotekCDLP.lib" /MACHINE:X86 Debug\BazaNosnik.obj
+         Debug\Biblioteka.obj
+         Debug\BibliotekCDLP.obj
+         Debug\cd.obj
+         Debug\stdafx.obj
+         BibliotekCDLP.vcxproj -> C:\Users\dandes1608\Documents\Visual Studio 2013\Projects\BibliotekCDLP\Debug\BibliotekCDLP.exe
+     1>Done Building Project "C:\Users\dandes1608\Documents\Visual Studio 2013\Projects\BibliotekCDLP\BibliotekCDLP\BibliotekCDLP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.52
