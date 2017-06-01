@@ -16,6 +16,8 @@ Some of my little projects and results of my study about code
 
 7.Battlefield - and here we go again, next game (or rather a simulation) but this time written in C#. This is simulation of battle beetween four fractions (fraction of warriors, wizards, thiefs and warlocks), the fights ends when only one fractions stay alive.
 
+8.Web application for offline & online surveys written in Zend Framework (Not finished yet) .
+
 
 
 
